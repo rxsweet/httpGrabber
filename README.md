@@ -4,6 +4,10 @@
 
 > copy https://github.com/saschazesiger/Free-Proxies   github Actions下载程序，运行，发布代码
 
+> 备份Proxy-Grabber-and-Checker-main  - 程序代码
+
+> 备份Free-Proxies-master - 下载程序，运行，发布代码
+
 
 ## 🎉 Proxy Grabber and Checker
 
